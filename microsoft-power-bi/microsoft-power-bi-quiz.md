@@ -540,7 +540,7 @@ NOTE: Data gets processed and reduced in the Power query editor. Corect answer i
 
     A. A slicer makes it easier for users to filter
     B. Users should be able to see both filtered and nonfiltered values.
-    C. ????????
+    C. Query speed is critical.
 
 - [x] A and B
 - [ ] B and C
@@ -833,3 +833,22 @@ NOTE: Data gets processed and reduced in the Power query editor. Corect answer i
 - [ ] Scatter plot
 - [ ] Pie chart
 - [x] Bar chart
+      
+#### Q104. Formulas in Power Query:
+
+    A. are case sensitive.
+    B. do not interchangeably read text and number values.
+    C. are not the same as Excel formulas.
+   
+- [ ] C 
+- [ ] B
+- [x] all of these answers
+- [ ] A
+
+
+#### Q105. Page 1 of your report includes multiple visualizations. To filter just the bar chart visualization, what type of filter should you use?
+   
+- [ ] visual level
+- [ ] slicer
+- [ ] bar chart
+- [ ] page-level
